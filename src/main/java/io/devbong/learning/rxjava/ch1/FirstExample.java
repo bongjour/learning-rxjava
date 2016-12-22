@@ -1,4 +1,4 @@
-package io.devbong.learning.rxjava;
+package io.devbong.learning.rxjava.ch1;
 
 import rx.Observable;
 import rx.Observer;
