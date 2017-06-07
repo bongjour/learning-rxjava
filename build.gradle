@@ -15,4 +15,5 @@ dependencies {
     compile 'io.reactivex:rxjava-parallel:1.1.8'
     compile 'io.reactivex:rxjava-async-util:0.21.0'
     compile group: 'com.google.guava', name: 'guava', version: '11.0.2'
+    compile "org.projectlombok:lombok:1.16.16"
 }
